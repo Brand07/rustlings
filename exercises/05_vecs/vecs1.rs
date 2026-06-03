@@ -20,3 +20,4 @@ mod tests {
         assert_eq!(v[2], c);
     }
 }
+
